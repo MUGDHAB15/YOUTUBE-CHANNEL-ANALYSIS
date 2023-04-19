@@ -1,7 +1,7 @@
 # YOUTUBE-CHANNEL-ANALYSIS
 Youtube channel 'Zee Music Company' Anlaysis using Youtube Data API and Python
 
-There are two files. One is the csv file where in we have the data extracted from THE YOUTUBE CHANNEL using API Key and secondly a jupyter notebook file having all the code wriiten.
+There are two files. One is the csv file where in we have the data extracted from THE YOUTUBE CHANNEL using API Key and secondly a PDF file having all the code wriiten.
 
 In this project, we are going to analyse the top Youtube channel 'Zee Music Company' using Python. First, we'll retreive videos information from this channel using Youtube Data API and Python. Then we'll create the dataset of this information using JSON and Pandas. Now, We'll analyse this dataset using Python analysis techniques and libraries ( Pandas, Matplotlib, Seaborn, etc. )
 
